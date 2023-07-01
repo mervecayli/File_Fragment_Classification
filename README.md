@@ -1,2 +1,2 @@
 # File_Fragment_Classification
- File Fragment Classification with Machine Learning
+ File Fragment Classification is an important problem in forensic computing. The literature does not contain a comprehensive study of applying machine learning techniques to this problem. In this study, we classified 13 different file types, each with 1000 file parts, using two different classification algorithms, KNN and SVM. 94.6% accuracy rate in KNN algorithm. We achieved an accuracy rate of 83.5% on SVM. When we evaluated the results, we saw that the SVM algorithm gave better results in real life problems, although it had less accuracy than KNN. In addition, we observed that the classification rate decreased in file types that contain different data such as audio, video and photo. 
